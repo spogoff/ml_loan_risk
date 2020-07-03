@@ -35,3 +35,6 @@ The model could be improved once the features are reviewed and filtered.
 #### EasyEnsembleClassifier
 
 The Easy Ensemble Classifier model 
+
+The Easy Ensemble Classifier modelhas an accuracy of 90%, but that does not necessarily make it a better model for predicting high risk loans. With a precision of only 0.14, this model misses 86 out of 100 high risk predictions. It also has an f1 of 0.24 which is quite low.
+
